@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6617aa7c-380b-4f83-8da2-25023d8ea781" name="Changes" comment="">
+    <list default="true" id="6617aa7c-380b-4f83-8da2-25023d8ea781" name="Changes" comment="Clock face done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Canvas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Canvas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,11 +57,22 @@
       <option name="presentableId" value="Default" />
       <updated>1675255714046</updated>
       <workItem from="1675255715445" duration="4010000" />
-      <workItem from="1675673500269" duration="2896000" />
+      <workItem from="1675673500269" duration="4583000" />
     </task>
+    <task id="LOCAL−00001" summary="Clock face done">
+      <created>1675676448102</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1675676448102</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Clock face done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Clock face done" />
   </component>
 </project>
